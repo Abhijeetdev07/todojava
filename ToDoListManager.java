@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * To-Do List Manager
+ * To-Do List Manager 
  * A simple console-based application to manage tasks
  */
 public class ToDoListManager {
@@ -165,4 +165,5 @@ public class ToDoListManager {
         manager.run();
     }
 }
+
 
